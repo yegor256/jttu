@@ -17,24 +17,18 @@
 # SOFTWARE.
 ---
 # yamllint disable rule:line-length
-name: generate
+name: reuse
 'on':
   push:
     branches:
       - master
-concurrency:
-  group: generate-${{ github.ref }}
-  cancel-in-progress: true
+  pull_request:
+    branches:
+      - master
 jobs:
-  generate:
+  reuse:
     timeout-minutes: 15
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - run: sudo apt-get update --yes --fix-missing && sudo apt-get install --yes yq
-      - run: ./generate.sh redirects.yml gh-pages
-      - uses: JamesIves/github-pages-deploy-action@v4.7.3
-        with:
-          branch: gh-pages
-          folder: gh-pages
-          clean: true
+      - uses: fsfe/reuse-action@v5
