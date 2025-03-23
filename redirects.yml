@@ -2,8 +2,6 @@
 # SPDX-License-Identifier: MIT
 ---
 # yamllint disable rule:line-length
-kladov2025: https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html
-herrero2011: https://softwareengineering.stackexchange.com/questions/123627/
 android2024: https://stuff.mit.edu/afs/sipb/project/android/docs/training/articles/perf-tips.html
 arguelles2020: https://testing.googleblog.com/2020/08/code-coverage-best-practices.html
 astels2004one: https://www.artima.com/weblogs/viewpost.jsp?thread=35578
@@ -14,13 +12,18 @@ bugayenko2018blame: https://cacm.acm.org/blogcacm/blame-free-quality-control/
 comartin2021: https://codeopinion.com/write-stable-code-using-coupling-metrics/
 deursen2014: https://avandeursen.com/2014/08/29/think-twice-before-using-the-maintainability-index/
 elastic2021sspl: https://www.theregister.com/2021/01/18/elastics_doubling_down_on_open/
+fields2006damp: http://blog.jayfields.com/2006/05/dry-code-damp-dsls.html
 fowler2024ci: https://martinfowler.com/articles/continuousIntegration.html
 github2015licenses: https://github.blog/2015-03-09-open-source-license-usage-on-github-com/
 goode2014: https://engineering.fb.com/2014/01/07/core-infra/scaling-mercurial-at-facebook/
+herrero2011: https://softwareengineering.stackexchange.com/questions/123627/
 hoare2009null: https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
 holub2003extends: https://www.infoworld.com/article/2073649/why-extends-is-evil.html
 holub2003why: https://www.infoworld.com/article/2161183/why-getter-and-setter-methods-are-evil.html
 holub2004more: https://www.infoworld.com/article/2072302/more-on-getters-and-setters.html
+kladov2025: https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html
+kruglov2018yandex: https://habr.com/ru/companies/yandex/articles/428972/
+martin2011lines: https://softwareengineering.stackexchange.com/questions/66523
 micco2016: https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html
 mongo2018sspl: https://techcrunch.com/2018/10/16/mongodb-switches-up-its-open-source-license/
 myers2012art: https://amzn.to/1Y3qAbN
@@ -34,5 +37,3 @@ spolsky2000bugs: https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking
 votruba2017: https://tomasvotruba.com/blog/2017/01/31/how-monolithic-repository-in-open-source-saved-my-laziness
 west2004object: https://amzn.to/266oJr4
 yegor256: https://www.yegor256.com/about-me.html
-kruglov2018yandex: https://habr.com/ru/companies/yandex/articles/428972/
-martin2011lines: https://softwareengineering.stackexchange.com/questions/66523
