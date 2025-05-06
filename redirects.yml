@@ -2,6 +2,9 @@
 # SPDX-License-Identifier: MIT
 ---
 # yamllint disable rule:line-length
+swift2024: https://developer.apple.com/documentation/swift/swift-standard-library
+net2023: https://learn.microsoft.com/en-us/dotnet/standard/net-standard
+js2024: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 android2024: https://stuff.mit.edu/afs/sipb/project/android/docs/training/articles/perf-tips.html
 arguelles2020: https://testing.googleblog.com/2020/08/code-coverage-best-practices.html
 astels2004one: https://www.artima.com/weblogs/viewpost.jsp?thread=35578
