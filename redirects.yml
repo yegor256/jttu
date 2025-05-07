@@ -2,6 +2,20 @@
 # SPDX-License-Identifier: MIT
 ---
 # yamllint disable rule:line-length
+
+douceur2002: https://www.microsoft.com/en-us/research/wp-content/uploads/2002/01/IPTPS2002.pdf
+buterin2013: https://github.com/ethereum/wiki/wiki/White-Paper
+popov2017: https://iotatoken.com/IOTA_Whitepaper.pdf
+kaskaloglu2014: http://sdiwc.net/digital-library/near-zero-bitcoin-transaction-fees-cannot-last-forever.html
+andreessen2014: https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/
+misc{pilkington2016: https://www.researchgate.net/publication/301604099_Blockchain_Technology_Principles_and_Applications
+iwamura2014: https://www.researchgate.net/publication/314406810_Can_We_Stabilize_the_Price_of_a_Cryptocurrency_Understanding_the_Design_of_Bitcoin_and_Its_Potential_to_Compete_with_Central_Bank_Money
+hayes2017: https://www.sciencedirect.com/science/article/abs/pii/S0736585315301118
+iwamura2014a: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2405790
+cheah2015: https://www.sciencedirect.com/science/article/pii/S0165176515000890
+fekkes2018: https://www.cs.ru.nl/bachelorscripties/2018/Lotte_Fekkes___4496426___Comparing_Bitcoin_and_Ethereum.pdf
+foroglou2015: https://www.researchgate.net/publication/276304843_Further_applications_of_the_blockchain
+
 swift2024: https://developer.apple.com/documentation/swift/swift-standard-library
 net2023: https://learn.microsoft.com/en-us/dotnet/standard/net-standard
 js2024: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
