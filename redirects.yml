@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: MIT
 ---
 # yamllint disable rule:line-length
+schrijvers2004rat: https://amzn.to/4yu35gb
 pressman2020patent: https://amzn.to/4pq6LLK
 falx2014manage: https://amzn.to/3TaIayC
 meyer2006css: https://amzn.to/4wS6Bzw
@@ -16,6 +17,7 @@ atwood2007: https://blog.codinghorror.com/your-code-oop-or-poo/
 balter2014rules: https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 batilo2022ways: https://www.sliceofexperiments.com/p/the-4-ways-to-run-your-unit-tests
 beck2018tcr: https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+black2002managing: https://amzn.to/2EEe2o6
 bloch2008effective: https://amzn.to/2cs4aiR
 bugayenko2018blame: https://cacm.acm.org/blogcacm/blame-free-quality-control/
 buterin2013: https://github.com/ethereum/wiki/wiki/White-Paper
@@ -37,6 +39,7 @@ fowler2004uml: https://amzn.to/2bQVt00
 fowler2024ci: https://martinfowler.com/articles/continuousIntegration.html
 freeman2009growing: https://amzn.to/1PBpoDT
 github2015licenses: https://github.blog/2015-03-09-open-source-license-usage-on-github-com/
+goetz2006java: https://amzn.to/2c7sVS1
 goode2014: https://engineering.fb.com/2014/01/07/core-infra/scaling-mercurial-at-facebook/
 harold2000xml: https://amzn.to/2bNiHWD
 hayes2017: https://www.sciencedirect.com/science/article/abs/pii/S0736585315301118
@@ -54,6 +57,7 @@ js2024: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global
 kaskaloglu2014: http://sdiwc.net/digital-library/near-zero-bitcoin-transaction-fees-cannot-last-forever.html
 kladov2025: https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html
 kruglov2018yandex: https://habr.com/ru/companies/yandex/articles/428972/
+loeliger2012version: https://amzn.to/2crIfoY
 maclellan2015: https://www.smaclellan.com/posts/preflights-changed-our-world/
 martin2011lines: https://softwareengineering.stackexchange.com/questions/66523
 micco2016: https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html
